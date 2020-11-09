@@ -1,0 +1,2 @@
+startup langing page - responsive, using bootstrap
+that colect emails addressing.
